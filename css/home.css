@@ -189,3 +189,11 @@
   transform: scale(1.2); /* Enlarge the icon on hover */
   z-index: 10; /* Bring the hovered icon to the front */
 }
+
+
+
+@media (max-width: 767.98px) {
+  .mobile-margin {
+    margin-top: 100px;
+  }
+}
