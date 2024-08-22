@@ -1,16 +1,25 @@
 <h2>Introduction</h2>
 Welcome to the Full Stack Developer Portfolio of Onkar Nakate. This portfolio showcases my work, skills, and experiences as a Full Stack Software Developer, highlighting the various projects I've contributed to, the technologies I’ve mastered, and my journey in the tech industry.
-
+<br>
+<h2>
+  
 About Me
+</h2>
 I am a dynamic and results-driven Full Stack Developer with hands-on experience in building and deploying full-cycle software applications. I am proficient in both front-end and back-end development, with a strong foundation in JavaScript, Node.js, React.js, and database management. I excel in Agile environments, optimizing CI/CD processes, and delivering scalable, high-quality solutions that drive business growth.
-
+<br>
+<h2>
+  
 Portfolio Overview
+</h2>
 This portfolio is designed to give you a comprehensive view of my professional journey. It includes detailed descriptions of my projects, the technologies I've used, and my educational background. Additionally, it highlights my professional experiences, certifications, and the skills that make me a versatile developer.
-
+<br>
+<h2>
+  
 Projects
+</h2>
 PatSeva (Core Banking System)
-Description: PatSeva is a comprehensive core banking system developed for Pat Sansthas and their branches, facilitating full computerization and centralization. The system includes modules for various banking operations such as Savings, Current Accounts, Pigmy Deposits, Term Deposits, Cash-Credit, Overdrafts (OD), Term Loans, and more. Special packages for the Head Office include Payroll, Shares Accounting, Accounting Systems, Consolidation, Stationery, and Investments.
-Technologies: JavaScript, TypeScript, Nest.js, TypeORM, Node.js, PostgreSQL
+<br>Description: PatSeva is a comprehensive core banking system developed for Pat Sansthas and their branches, facilitating full computerization and centralization. The system includes modules for various banking operations such as Savings, Current Accounts, Pigmy Deposits, Term Deposits, Cash-Credit, Overdrafts (OD), Term Loans, and more. Special packages for the Head Office include Payroll, Shares Accounting, Accounting Systems, Consolidation, Stationery, and Investments.
+<br>Technologies: JavaScript, TypeScript, Nest.js, TypeORM, Node.js, PostgreSQL
 Responsibilities:
 Integrated modules and tracked bugs across all system modules.
 Designed and generated reports using JasperReports.
