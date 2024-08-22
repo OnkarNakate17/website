@@ -19,22 +19,42 @@ Projects
 </h2>
 PatSeva (Core Banking System)
 <br>Description: PatSeva is a comprehensive core banking system developed for Pat Sansthas and their branches, facilitating full computerization and centralization. The system includes modules for various banking operations such as Savings, Current Accounts, Pigmy Deposits, Term Deposits, Cash-Credit, Overdrafts (OD), Term Loans, and more. Special packages for the Head Office include Payroll, Shares Accounting, Accounting Systems, Consolidation, Stationery, and Investments.
-<br>Technologies: JavaScript, TypeScript, Nest.js, TypeORM, Node.js, PostgreSQL
+<p>
+  
+Technologies: JavaScript, TypeScript, Nest.js, TypeORM, Node.js, PostgreSQL
+</p>
+<p>
+  
 Responsibilities:
 Integrated modules and tracked bugs across all system modules.
 Designed and generated reports using JasperReports.
 Contributed to the design and development of the system, ensuring seamless operation and integration of multiple modules.
+</p>
+<h2>
+  
 Book Resale Website
+</h2>
+<p>
+  
 Description: This project is a full-stack web application developed for buying and selling used books. The platform enhances accessibility and reduces costs for students and educators.
+</p>
+<p>
+  
 Technologies: MongoDB, Express.js, Node.js, React.js
+</p>
+<p>
+  
 Skills
 Programming Languages: Core Java, JavaScript
 Front-End Development: React.js, HTML, CSS
 Back-End Development: Node.js, Express.js, Nest.js, TypeScript, TypeORM
 Databases: PostgreSQL, MongoDB
 Tools & Technologies: Postman, GitHub, JasperReports, RESTful APIs, Microservices
-Development Practices: Agile Methodologies, Test-Driven Development (TDD), CI/CD
+</p>
+<h2>
+  
 Certifications
+</h2>
 Infosys: The Full Stack Web Development
 TCS-ION: TCS iON Career Edge - Young Professional
 Education
