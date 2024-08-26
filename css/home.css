@@ -14,12 +14,12 @@
     padding: 20px;
     text-align: center;
     
-    background-image: linear-gradient(to left, rgba(255,0,0,0), rgb(202, 240, 255));
+    background-image: linear-gradient(to left, rgba(255,0,0,0), rgba(0, 132, 255, 0.664));
   }
   
   .home-info .small-text {
     font-size: 1.2em;
-    color: #555;
+    color: #000000; 
   }
 
   .home-info .big-text {
@@ -101,7 +101,7 @@
 
 
 .gradient-text {
-  background: linear-gradient(45deg, rgb(255, 132, 0), #4ec7ff);
+  background: linear-gradient(45deg, rgb(255, 60, 0), #1100ff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -110,7 +110,7 @@
 
 
 .cv {
-  background: linear-gradient(45deg, #00f, #00aaff);
+  background: linear-gradient(45deg, rgb(255, 154, 21), #22b5ff);
   color: white;
   border: none;
   border-radius: 5px;
@@ -122,11 +122,11 @@
 }
 
 .cv:hover {
-  background: linear-gradient(45deg, #00aaff, #0077cc);
+  background: linear-gradient(45deg, #22b5ff, rgb(255, 154, 21));
 }
 
 .gradient-text2 {
-  background: linear-gradient(45deg, rgb(0, 30, 110), #80e6ff);
+  background: linear-gradient(45deg, rgb(0, 102, 255), rgb(0, 102, 255));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
